@@ -2,7 +2,7 @@
 
 <h1>aprendendo comandos do github</h1>
 
-#
+
 <h3>git repo create (nome_do_repositorio) --private(privado) --public (publico)</h5>
 <h3>git init   <br></h3>
 <h5> inicializar a pasta criando o arquivo git responsavel pelo versionamento e manipulacao dos arquivos presestes sobre aquela pasta</h5>
