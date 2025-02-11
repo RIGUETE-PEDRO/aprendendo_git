@@ -46,7 +46,7 @@
 <br>
 
 <h2>ATRAVEZ DO touch .gitignore<br></h2>
-<h4> esse comando serve para criar um arquivo no qual podemos colocar o nome do arquivo para não dar upload dele para o github ele fica oculto,somente do arquivo .gitignore precisar subir </h4>
+<h4>atenção esse comando somente pode ser executado no terminal git <br> esse comando serve para criar um arquivo no qual podemos colocar o nome do arquivo para não dar upload dele para o github ele fica oculto,somente do arquivo .gitignore precisar subir </h4>
 <br>
 
 
