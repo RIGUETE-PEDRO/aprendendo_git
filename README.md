@@ -2,7 +2,8 @@
 <h1>aprendendo comandos do github</h1>
 
 
-<h2>git repo create (nome_do_repositorio) --private(privado) --public (publico)</h4>
+<h2>git repo create (nome_do_repositorio) --private(privado) --public (publico)<br></h2>
+<h4>este comando criar repositorio e da para escolher se e publico e privado</h4><br>
 
 <h2>git init   <br></h2>
 <h4> inicializar a pasta criando o arquivo git responsavel pelo versionamento e manipulacao dos arquivos presestes sobre aquela pasta</h4>
