@@ -42,6 +42,5 @@
 <br>
 
 <h2>git commit checkout (nome da branch de entrada dos aquivos) <br></h2>
-<h4> esse comando e ultilizado para alterar a branch para a que vai receber os arquivos, assim logo apos vc usa o comando 
-  sh git merge (nome da branch de saida dos arquivos) </h4>
+<h4> esse comando e ultilizado para alterar a branch para a que vai receber os arquivos, assim logo apos vc usa o comando  git merge (nome da branch de saida dos arquivos) </h4>
 <br>
