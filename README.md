@@ -44,3 +44,9 @@
 <h2>git commit checkout (nome da branch de entrada dos aquivos) <br></h2>
 <h4> esse comando e ultilizado para alterar a branch para a que vai receber os arquivos, assim logo apos vc usa o comando  git merge (nome da branch de saida dos arquivos) </h4>
 <br>
+
+<h2>ATRAVEZ DO touch .gitignore<br></h2>
+<h4> esse comando serve para criar um arquivo no qual podemos colocar o nome do arquivo para não dar upload dele para o github ele fica oculto,somente do arquivo .gitignore precisar subir </h4>
+<br>
+
+
